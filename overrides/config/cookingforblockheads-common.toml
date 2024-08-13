@@ -11,7 +11,7 @@ sinkRequiresWater = true
 #Enabling this will make the kitchen counters have twice as much inventory space.
 largeCounters = false
 #Set this to true if you'd like to disallow automation of the oven (pipes and such won't be able to insert/extract)
-disallowOvenAutomation = false
+disallowOvenAutomation = true
 #The fuel multiplier for the cooking oven. Higher values means fuel lasts longer, 1.0 is furnace default.
 #Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 ovenFuelTimeMultiplier = 0.33000001311302185

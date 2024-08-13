@@ -16,7 +16,78 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "examplemod:example_item"
+    "aquaculture:neptunium_nugget",
+    "aquaculture:neptunium_block",
+    "aquaculture:neptunes_bounty",
+    "aquaculture:neptunium_pickaxe",
+    "aquaculture:neptunium_axe",
+    "aquaculture:neptunium_shovel",
+    "aquaculture:neptunium_hoe",
+    "aquaculture:neptunium_sword",
+    "aquaculture:neptunium_bow",
+    "aquaculture:neptunium_helmet",
+    "aquaculture:neptunium_chestplate",
+    "aquaculture:neptunium_leggings",
+    "aquaculture:neptunium_boots",
+    "aquaculture:neptunium_fillet_knife",
+    "aquaculture:neptunium_fishing_rod",
+    "aquaculture:nuptunium_ingot",
+    "supplementaries:bomb",
+    "supplementaries:altimeter",
+    "supplementaries:flute",
+    "supplementaries:bubble_blower",
+    "supplementaries:wrench",
+    "supplementaries:rope_arrow",
+    "supplementaries:slingshot",
+    "supplementaries:daub_cross_brace",
+    "supplementaries:daub_brace",
+    "supplementaries:daub_frame",
+    "supplementaries:bomb_blue",
+    "supplementaries:crank",
+    "supplementaries:rope",
+    "supplementaries:globe_sepia",
+    "supplementaries:hourglass",
+    "supplementaries:lock_block",
+    "supplementaries:redstone_illuminator",
+    "supplementaries:gold_door",
+    "supplementaries:gold_trapdoor",
+    "supplementaries:wind_vane",
+    "solonion:lunchbox",
+    "solonion:golden_lunchbox",
+    "solonion:lunchbag",
+    "netherdepthsupgrade:soul_sucker_boots",
+    "netherdepthsupgrade:soul_sucker_leather",
+    "fishingupgrades:diamond_nugget",
+    "fishingupgrades:copper_nugget",
+    "fishingupgrades:raw_diamond",
+    "cookingforblockheads:toaster",
+    "nethersdelight:iron_machete",
+    "nethersdelight:golden_machete",
+    "nethersdelight:diamond_machete",
+    "nethersdelight:netherite_machete",
+    "upgrade_aquatic:bedroll",
+    "upgrade_aquatic:white_bedroll",
+    "upgrade_aquatic:light_gray_bedroll",
+    "upgrade_aquatic:gray_bedroll",
+    "upgrade_aquatic:black_bedroll",
+    "upgrade_aquatic:brown_bedroll",
+    "upgrade_aquatic:red_bedroll",
+    "upgrade_aquatic:orange_bedroll",
+    "upgrade_aquatic:yellow_bedroll",
+    "upgrade_aquatic:lime_bedroll",
+    "upgrade_aquatic:green_bedroll",
+    "upgrade_aquatic:cyan_bedroll",
+    "upgrade_aquatic:light_blue_bedroll",
+    "upgrade_aquatic:blue_bedroll",
+    "upgrade_aquatic:purple_bedroll",
+    "upgrade_aquatic:magenta_bedroll",
+    "upgrade_aquatic:pink_bedroll",
+    "friendsandfoes:totem_of_illusion",
+    "friendsandfoes:totem_of_freezing",
+    "unusualfishmod:prismarine_spear",
+    "unusualfishmod:depth_claw",
+    "unusualfishmod:depth_scythe",
+    "unusualfishmod:ancient_weapon_smithing_template"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
@@ -42,7 +113,7 @@
   // Items here will get their recipes disabled
   // Keep in mind this already is applied to blacklisted items
   "only_disable_recipes": [
-    "examplemod:example_item"
+    "aquaculture:nuptunium_ingot"
   ],
   // -----------------------------------------------------------
   // If true, the mod will use a hashset to handle the blacklisted items
@@ -51,5 +122,5 @@
   //  
   // [!] Enabling this will disable all regular expressions
   // [!] Does not apply to NBT, only item blacklist / interaction / attack
-  "use_hashmap_optimizations": false
+  "use_hashmap_optimizations": true
 }
