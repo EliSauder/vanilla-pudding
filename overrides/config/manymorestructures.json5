@@ -1,0 +1,13 @@
+// ### THE MOD REQUIRES A RESTART OF THE GAME TO APPLY CHANGES ###
+{
+  // density factor controls ALL structures, Using a Percentage, 100% is base
+  "densityFactor": 100,
+
+  // this is a list of custom density factors
+  "customDensityFactors": [
+    {
+      "structure": "minecraft:end_city",
+      "factor": 120
+    }
+  ]
+}

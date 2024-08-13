@@ -1,0 +1,109 @@
+{
+  "foodItems": {
+    "entries": [],
+    "isWhitelist": false
+  },
+  "trackCount": 32,
+  "resetOnDeath": false,
+  "limitProgressionToSurvival": true,
+  "minFoodsToActivate": 0,
+  "benefits": [
+    {
+      "threshold": 3,
+      "benefit": {
+        "attribute": "minecraft:generic.max_health",
+        "value": 2
+      }
+    },
+    {
+      "threshold": 5,
+      "benefit": {
+        "attribute": "minecraft:generic.max_health",
+        "value": 2
+      }
+    },
+    {
+      "threshold": 7,
+      "benefit": {
+        "attribute": "minecraft:generic.max_health",
+        "value": 2
+      }
+    },
+    {
+      "threshold": 9,
+      "benefit": {
+        "attribute": "minecraft:generic.max_health",
+        "value": 2
+      }
+    },
+    {
+      "threshold": 10,
+      "benefit": {
+        "attribute": "minecraft:generic.attack_damage",
+        "value": 1
+      }
+    },
+    {
+      "threshold": 10,
+      "benefit": {
+        "attribute": "minecraft:generic.armor_toughness",
+        "value": 2
+      }
+    },
+    {
+      "threshold": 10,
+      "benefit": {
+        "attribute": "minecraft:generic.luck",
+        "value": 2
+      }
+    },
+    {
+      "threshold": 14,
+      "benefit": {
+        "attribute": "minecraft:generic.max_health",
+        "value": 4
+      }
+    },
+    {
+      "threshold": 18,
+      "benefit": {
+        "attribute": "minecraft:generic.max_health",
+        "value": 4
+      }
+    },
+    {
+      "threshold": 20,
+      "benefit": {
+        "attribute": "minecraft:generic.max_health",
+        "value": 4
+      }
+    },
+    {
+      "threshold": 20,
+      "benefit": {
+        "attribute": "minecraft:generic.luck",
+        "value": 2
+      }
+    }
+  ],
+  "shouldExcludedCount": true,
+  "complexityStandardNutrition": 5,
+  "complexityStandardSaturation": 0.6,
+  "complexityBenefitEffectModifier": 0.2,
+  "complexityNeutralEffectModifier": 0,
+  "complexityHarmEffectModifier": -0.2,
+  "foodDiversity": [
+    {
+      "ingredient": "{id:\"item\",item:\"minecraft:golden_carrot\"}",
+      "diversity": 2
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"minecraft:golden_apple\"}",
+      "diversity": 2
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"minecraft:enchanted_golden_apple\"}",
+      "diversity": 5
+    }
+  ]
+}

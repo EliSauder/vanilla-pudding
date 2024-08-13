@@ -1,0 +1,5 @@
+
+[Compatibility]
+	#Add in here names of fish from other mods that arent included in the mod itself for apprisal, type the name of the fish as if you were trying to give it to yourself using /give
+	"Other fish" = "modname:itemname"
+
