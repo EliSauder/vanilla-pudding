@@ -1,5 +1,9 @@
 # vanilla-pudding
 
+<details>
+
+<summary>Mods used</summary>
+
 ## Mods used:
 ### Optional
 - [AmbientSounds]() \[optional\]
@@ -182,6 +186,7 @@
 - [YUNG's Better Witch Huts]()
 - [YUNG's Bridges]()
 - [YUNG's Extras]()
+</details>
 
 ## Datapacks
 - [CTOV - Villagers Plus Add on]
