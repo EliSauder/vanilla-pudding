@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>Mods used</summary>
+<summary>Mods</summary>
 
 ## Mods used:
 ### Optional
@@ -188,5 +188,11 @@
 - [YUNG's Extras]()
 </details>
 
+<details>
+
+<summary>Datapacks</summary>
+
 ## Datapacks
 - [CTOV - Villagers Plus Add on]
+
+</details>
