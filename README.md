@@ -15,7 +15,7 @@
     - [Fluids]()
     - [Seasonal Let's Do]()
 - [AlmostUnified]()
-- [AmbientSounds]() \[optional]
+- [AmbientSounds]() \[optional\]
 - [Amendments]()
 - [Amplified Nether]()
 - [Amplified Nether Height]()
@@ -34,7 +34,7 @@
 - [Better Block Sounds]() \[optional\]
 - [Better Compatibility Checker]()
 - [Better Fletching Table]()
-- [Better Foliage]()
+- [Better Foliage]() \[optional\]
 - [Better Recipe Book]()
 - [Bigger Better End Cities](https://www.curseforge.com/minecraft/mc-mods/bigger-better-end-cities)
 - [Blended Compat]()
