@@ -2,6 +2,9 @@
 *.mrpack
 *.zip
 
+# config files to not include
+*fingerprint*
+
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
