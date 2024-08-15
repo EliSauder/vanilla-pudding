@@ -1,6 +1,15 @@
 # vanilla-pudding
 
 ## Mods used:
+### Optional
+- [AmbientSounds]() \[optional\]
+- [Better Block Sounds]() \[optional\]
+- [Better Foliage]() \[optional\]
+- [Mouse Tweaks]() \[optional\]
+- [No Chat Reports]() \[optional\]
+- [Sound Physics Remastered]() \[optional\]
+
+### Required
 - \[Let's Do]
     - [API]()
     - [Bakery]()
@@ -15,7 +24,6 @@
     - [Fluids]()
     - [Seasonal Let's Do]()
 - [AlmostUnified]()
-- [AmbientSounds]() \[optional\]
 - [Amendments]()
 - [Amplified Nether]()
 - [Amplified Nether Height]()
@@ -31,10 +39,8 @@
 - [Balm]()
 - [Better Advancements]()
 - [Better Archeology]()
-- [Better Block Sounds]() \[optional\]
 - [Better Compatibility Checker]()
 - [Better Fletching Table]()
-- [Better Foliage]() \[optional\]
 - [Better Recipe Book]()
 - [Bigger Better End Cities](https://www.curseforge.com/minecraft/mc-mods/bigger-better-end-cities)
 - [Blended Compat]()
@@ -131,11 +137,9 @@
 - [Moog's End Structures]()
 - [Moog's Nether Structures]()
 - [Moonlight Library]()
-- [Mouse Tweaks]() \[optional\]
 - [Mysterious Mountain Lib]()
 - [Necraonomicon]()
 - [Nether Depths Uprgrade]()
-- [No Chat Reports]() \[optional\]
 - [Nullscape]()
 - [Oculus]()
 - [OpenLoader]()
@@ -154,7 +158,6 @@
 - [Smarter Farmers]()
 - [Snow Under Trees]()
 - [Snow! Real Magic!]()
-- [Sound Physics Remastered]() \[optional\]
 - [Spice of Life Onion]()
 - [Storage Drawers]()
     - [Storage Drawers Create compat]()
