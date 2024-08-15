@@ -1,10 +1,29 @@
-# vanilla-pudding
+# Vanilla Pudding
 
+A vanilla+ modpack that aims to keep the core experiences of minecraft untouched
+while adding fun additions and depth to existing mechanics. I wanted to make a
+pack that was fun to play with enough features to keep people who have played
+lots of the game engaged, but not so much that it starts to feel like a
+different game. There is also some influence of the cottage core style in the
+pack which I feel fits decently well with the Minecraft asthetic.
+
+### Philosphy
+Where I can, I want to improve what minecraft already 
+offers, only if that doesn't work do we look elsewhere. When adding mods the 
+goal is to get them to fill in a gap that doesn't already get solved in some 
+way by a vanilla feature. Probably the most contentions example of this is the
+decision to work on the vanilla recipe book rather than adding JEI 
+(or equivelant). If that turns you off from the pack I encourage you to add it
+yourself, however, I feel it strays to far from vanilla and removes part of the
+fun of discovery.
+
+## Features
+
+## Mods, Datapacks, etc.
 <details>
 
 <summary>Mods</summary>
 
-## Mods used:
 ### Optional
 - [AmbientSounds](https://modrinth.com/mod/ambientsounds) \[optional\]
 - [Better Block Sounds](https://modrinth.com/mod/bbs) \[optional\]
@@ -194,7 +213,6 @@
 
 <summary>Datapacks</summary>
 
-## Datapacks
 - [CTOV - Villagers Plus Compat](https://modrinth.com/datapack/ctov-villagers-plus-compat)
 
 </details>
