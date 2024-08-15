@@ -193,6 +193,6 @@
 <summary>Datapacks</summary>
 
 ## Datapacks
-- [CTOV - Villagers Plus Add on]
+- [CTOV - Villagers Plus Add on]()
 
 </details>
