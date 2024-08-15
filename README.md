@@ -18,6 +18,22 @@ yourself, however, I feel it strays to far from vanilla and removes part of the
 fun of discovery.
 
 ## Features
+- *Immersion* improvements through seasons and dynamically weathering environments.
+- *Terrain* generation has been improved in all dimentions.
+- *Fishing* improvements that allow it to be used for more than just fish (also 
+  the nether now has some fun related things to discover ;) )
+- *Farming* has gotten some love with crop additions, qol improvements, and
+  improved rewards for doing your farming so you can fulfill your cottage core
+  farming dreams.
+- *Vanilla Feature Improvements* Many small/large improvements to vanilla 
+  features to make them more useful and rewarding.
+- *Mapping* got an upgrade with map atlas which simplifies the filling of maps
+  while also giving a vanilla integrated minimap feature.
+- *Automation* is also covered with Create for all of you that just want to see
+  conveyor belts full of items.
+- *Pets* are now (mostly) not stupid and have some additional features. There
+  are also now even more creatures you can make your friends.
+- *Villagers* are now a little smarter and have some new additions to trade with.
 
 ## Mods, Datapacks, etc.
 <details>
