@@ -1,35 +1,35 @@
 {
-  "ignoredRecipeTypes": [
-    "cucumber:shaped_tag"
-  ],
-  "ignoredRecipes": [],
-  "defaultDuplicateRules": {
-    "ignoredFields": [
-      "show_notification",
-      "conditions",
-      "category",
-      "group"
+    "ignoredRecipeTypes": [
+        "cucumber:shaped_tag"
     ],
-    "rules": {
-      "cookingtime": "HigherRule",
-      "energy": "HigherRule",
-      "experience": "HigherRule"
+    "ignoredRecipes": [],
+    "defaultDuplicateRules": {
+        "ignoredFields": [
+            "show_notification",
+            "conditions",
+            "category",
+            "group"
+        ],
+        "rules": {
+            "cookingtime": "HigherRule",
+            "energy": "HigherRule",
+            "experience": "HigherRule"
+        },
+        "shouldSanitize": false
     },
-    "shouldSanitize": false
-  },
-  "overrideDuplicateRules": {
-    "minecraft:crafting_shaped": {
-      "ignoredFields": [
-        "pattern",
-        "show_notification",
-        "conditions",
-        "category",
-        "key",
-        "group"
-      ],
-      "rules": {},
-      "shouldSanitize": false
-    }
-  },
-  "strictMode": false
+    "overrideDuplicateRules": {
+        "minecraft:crafting_shaped": {
+            "ignoredFields": [
+                "pattern",
+                "show_notification",
+                "conditions",
+                "category",
+                "key",
+                "group"
+            ],
+            "rules": {},
+            "shouldSanitize": false
+        }
+    },
+    "strictMode": true
 }
