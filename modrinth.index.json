@@ -2643,21 +2643,6 @@
                 "sha512": "29896ee8443c2223470df5b8d3e0da1c3c30ac106bda7d64db3936245a8400d4846a3aa86cbf5840e2a44e34a10d6e47aee311e0cd9be237cfda12ca49c765f7"
             },
             "path": "mods/voicechat-forge-1.20.1-2.5.20.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/AtB5mHky/versions/Sp0NpaDe/watut-forge-1.20.1-1.1.3.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 352474,
-            "hashes": {
-                "sha1": "869600c0d3fc7ca12f534bcc1d89ba03fac3c0c3",
-                "sha512": "43ea1e4472f0963f768f0ddb1d8be523dc7e0fdc265029d3cc2b8df4a3d7a88ab7dcf1e053ee7813c40f97dd5dfe5afc6ad48276fb390b07a66b959b20488c25"
-            },
-            "path": "mods/watut-forge-1.20.1-1.1.3.jar"
         }
     ],
     "formatVersion": 1,
