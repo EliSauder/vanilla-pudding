@@ -2406,21 +2406,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/2M01OLQq/versions/QMp2SF1u/shulkerboxtooltip-forge-4.0.4%2B1.20.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 221121,
-            "hashes": {
-                "sha1": "467a97815cd47ee8843f1e3b6e520ca1d6a81fe7",
-                "sha512": "6e0b17ec9ad6090864b6b8eec041dc1468a2f7fa6b485df0225abfb2c074093595ed81c380e88796fcdd14cef640133236eba78b306815a173c3ea16c4876a36"
-            },
-            "path": "mods/shulkerboxtooltip-forge-4.0.4+1.20.1.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/GmjmRQ0A/versions/GDyNpDy7/sliceanddice-forge-3.2.1.jar"
             ],
             "env": {
