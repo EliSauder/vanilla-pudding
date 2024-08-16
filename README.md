@@ -41,12 +41,12 @@ fun of discovery.
 <summary>Mods</summary>
 
 ### Optional
-- [AmbientSounds](https://modrinth.com/mod/ambientsounds) \[optional\]
-- [Better Block Sounds](https://modrinth.com/mod/bbs) \[optional\]
-- [Better Foliage](https://modrinth.com/mod/better-foliage-renewed) \[optional\]
-- [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) \[optional\]
-- [No Chat Reports](https://modrinth.com/mod/no-chat-reports) \[optional\]
-- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) \[optional\]
+- [AmbientSounds](https://modrinth.com/mod/ambientsounds)
+- [Better Block Sounds](https://modrinth.com/mod/bbs)
+- [Better Foliage](https://modrinth.com/mod/better-foliage-renewed)
+- [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
 
 ### Required
 - \[Let's Do]
@@ -95,6 +95,7 @@ fun of discovery.
     - [CTOV - Domesticated Innovation Compat](https://modrinth.com/datapack/ctov-domesticated-innovation-compat)
     - [CTOV - Friends and Foes Compat](https://modrinth.com/datapack/ctov-friends-and-foes-compat)
 - [Citadel](https://modrinth.com/mod/citadel)
+- [Cloth Config](https://modrinth.com/mod/cloth-config) \[server\]
 - [Companion](https://modrinth.com/mod/companion)
 - [CookingForBlockheads](https://modrinth.com/mod/cooking-for-blockheads)
 - [CoroUtil](https://modrinth.com/mod/coroutil)
@@ -232,3 +233,17 @@ fun of discovery.
 - [CTOV - Villagers Plus Compat](https://modrinth.com/datapack/ctov-villagers-plus-compat)
 
 </details>
+
+## FAQ
+> ### What's with the name?
+>
+> Vanilla pudding is intented to still feel a bit like vanilla, but it isn't
+> vanilla, it has extra stuff to it, the pudding. Combine the two, there you go
+> Vanilla Pudding.
+
+> ### Multiplayer?
+>
+> Yes! This pack started because I wanted something that my friends and I could
+> just sit down and play. While it can totally be played singleplayer, I've
+> included mods that lend themselves to multiplayer (Simple Voice Chat and 
+> Create Numismatics).
