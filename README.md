@@ -35,6 +35,25 @@ fun of discovery.
   are also now even more creatures you can make your friends.
 - *Villagers* are now a little smarter and have some new additions to trade with.
 
+## FAQ
+> ### What's with the name?
+>
+> Vanilla pudding is intented to still feel a bit like vanilla, but it isn't
+> vanilla, it has extra stuff to it, the pudding. Combine the two, there you go
+> Vanilla Pudding.
+
+> ### Multiplayer?
+>
+> Yes! This pack started because I wanted something that my friends and I could
+> just sit down and play. While it can totally be played singleplayer, I've
+> included mods that lend themselves to multiplayer (Simple Voice Chat and 
+> Create Numismatics).
+
+## Known Issues
+> ### Map Atlas doesn't show in recipe book
+>
+> Craft map of desired size, book, and slimeball or honey bottle together.
+
 ## Mods, Datapacks, etc.
 <details>
 
@@ -233,17 +252,3 @@ fun of discovery.
 - [CTOV - Villagers Plus Compat](https://modrinth.com/datapack/ctov-villagers-plus-compat)
 
 </details>
-
-## FAQ
-> ### What's with the name?
->
-> Vanilla pudding is intented to still feel a bit like vanilla, but it isn't
-> vanilla, it has extra stuff to it, the pudding. Combine the two, there you go
-> Vanilla Pudding.
-
-> ### Multiplayer?
->
-> Yes! This pack started because I wanted something that my friends and I could
-> just sit down and play. While it can totally be played singleplayer, I've
-> included mods that lend themselves to multiplayer (Simple Voice Chat and 
-> Create Numismatics).
