@@ -77,7 +77,7 @@ fun of discovery.
     - [NetherVinery](https://modrinth.com/mod/lets-do-nethervinery)
     - [Vinery](https://modrinth.com/mod/lets-do-vinery)
 - \[Let's Do Addons]
-    - [AppleWood](https://modrinth.com/mod/lets-do-addon-apple-wood)
+    <!-- - [AppleWood](https://modrinth.com/mod/lets-do-addon-apple-wood) -->
     - [Compat](https://modrinth.com/mod/lets-do-addon-compat)
     - [Fluids](https://modrinth.com/mod/lets-do-addon-fluids)
     - [Seasonal Let's Do](https://modrinth.com/mod/seasonal-lets-do)

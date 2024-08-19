@@ -1911,21 +1911,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/vIxesWnr/versions/MhIhTGfT/letsdo-addon-applewood-forge-1.0.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 351541,
-            "hashes": {
-                "sha1": "0ef32fa1ed1ad2ed1dbfc74da9848792f3060e14",
-                "sha512": "38b5da496d6920c307142a05ee0c235811236fdf437c51b3dd3ae5badd47df0897c98a4bb1edd77c4d72c10fbeae2b739083f3ae6cf12099745cdd275e94a7da"
-            },
-            "path": "mods/letsdo-addon-applewood-forge-1.0.1.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/FNi5IMiX/versions/hVjvvLWj/letsdo-addon-compat-forge-1.4.2.jar"
             ],
             "env": {
